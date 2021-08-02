@@ -1,0 +1,3 @@
+rootProject.name = "BenchmarkTest"
+include ':app'
+include ':benchmark'
